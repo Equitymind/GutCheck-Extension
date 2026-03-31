@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "GutCheck",
   "version": "1.0.0",
-  "description": "AI deepfake detection for video calls. Analyzes your biometric response to detect manipulated video in real time.",
+  "description": "Authenticity detection for video. Analyzes your biometric response to verify what you're watching is real.",
   "permissions": [
     "activeTab",
     "scripting",
